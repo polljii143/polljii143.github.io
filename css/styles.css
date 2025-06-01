@@ -11336,3 +11336,13 @@ section.resume-section .resume-section-content {
   font-style: italic;
   font-size: 24px;
 }
+
+.card-text {
+  font-weight: 500;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.project-card {
+  height: 400px !important;
+}
