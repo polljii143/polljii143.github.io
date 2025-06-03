@@ -11333,6 +11333,7 @@ section.resume-section .resume-section-content {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 24px;
+  color: rgba(var(--bs-dark-rgb));
 }
 
 .card-text {
