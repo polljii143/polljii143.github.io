@@ -11340,10 +11340,10 @@ section.resume-section .resume-section-content {
   font-size: 20px;
 }
 
-.project-card {
-  height: 400px !important;
-}
-
 .bg-motiff {
   background-image: linear-gradient(90deg, #c8102e 40%, #ffffff 100%);
+}
+
+.project-details {
+  font-size: 20px;
 }
