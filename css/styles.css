@@ -11347,3 +11347,18 @@ section.resume-section .resume-section-content {
 .project-details {
   font-size: 20px;
 }
+
+.carousel-image-container {
+  height: 170px;
+  overflow: hidden;
+  position: relative;
+}
+
+.carousel-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
