@@ -4500,7 +4500,7 @@ fieldset:disabled .btn {
   --bs-accordion-body-padding-x: 1.25rem;
   --bs-accordion-body-padding-y: 1rem;
   --bs-accordion-active-color: #424343;
-  --bs-accordion-active-bg: #fbabb8;
+  --bs-accordion-active-bg: #e9b6b6;
 }
 
 .accordion-button {
@@ -11341,7 +11341,7 @@ section.resume-section .resume-section-content {
 }
 
 .bg-motiff {
-  background-image: linear-gradient(90deg, #c8102e 40%, #ffffff 100%);
+  background-image: linear-gradient(90deg, #c8102e 40%, #f28b8b 100%);
 }
 
 .project-details {
